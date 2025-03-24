@@ -8,7 +8,9 @@ export const Section1 = () => {
     <section className="hero_section">
          <Container>
         <Row>
+          
           <Col lg={7} className="mb-5 mb-lg-0">
+
             <div className="position-relative">
               <img src={Burger} className="img-fluid" alt="Hero" />
               <div className="price_badge">
@@ -18,6 +20,9 @@ export const Section1 = () => {
                 </div>
               </div>
             </div>
+
+
+            
           </Col>
 
 
